@@ -1,0 +1,29 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+ul {
+  list-style: none;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+.container {
+  max-width: 140rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}/*# sourceMappingURL=main.css.map */
